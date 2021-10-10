@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a2af44fc-e274-4abf-a539-254daaf810bf/resourceGroups/rg-infoboard/providers/Microsoft.Web/sites/webapp-infoboard",
+    "appService.deploySubpath": "."
+}
